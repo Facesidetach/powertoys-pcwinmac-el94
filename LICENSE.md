@@ -1,4 +1,4 @@
-# 
+# Avancé PowerToys préréglages pour Mac OS | Léger PowerToys préréglages pour PC Windows. Avec détection de fichiers en double et suppression de fichiers temporaires — optimisé pour des performances maximales sur chaque plateforme.
 
 
 
